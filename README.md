@@ -45,7 +45,7 @@ I am a B.Tech student in **AI & Data Science**, passionate about:
 
 -  Email: asfiyamadani@gmail.com  
 -  LinkedIn: https://www.linkedin.com/in/asfiya-madani-9a7884330  
--  GitHub: https://github.com/asfii007
+-  GitHub: https://github.com/asfiya007
   
 This project is built as part of my learning journey in web development.
 
